@@ -6,11 +6,4 @@ The main solution function name in both tasks is "create_dataset".
 The files contain also tests for the code, using the input/output examples from the assignment instructions (task_x_input.json / task_x_output.json)
 
 ## Usage
-**Task 1:**
-```bash
-    python task_1.py
-```
-**Task 2:**
-```bash
-    python task_2.py
-```
+python task_x.py
